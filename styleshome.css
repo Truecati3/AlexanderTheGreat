@@ -1,4 +1,10 @@
-body {background-color: black;}
+body {
+    background: url(dedsec.gif) no-repeat;
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+	}
 h1   {color: blue;}
 p    {color: white;}
 a    {color: red;}
